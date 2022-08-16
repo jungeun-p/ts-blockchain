@@ -1,0 +1,7 @@
+{
+    "include": ["src"], // js로 컴파일하고 싶은 디렉터리 
+    "compilerOptions": {
+        "outDir": "build", // js 파일 생성될 디렉터리 
+        "target": "ES6" // js version
+    }
+}
