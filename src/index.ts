@@ -8,9 +8,7 @@
 // }
 
 import { init, exit } from "myPackage";
-
 init({
-    url: "true"
+    url:"hello",
 })
-
 exit(1)
