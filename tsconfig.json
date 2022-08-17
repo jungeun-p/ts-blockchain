@@ -3,6 +3,7 @@
     "compilerOptions": {
         "outDir": "build", // js 파일 생성될 디렉터리 
         "target": "ES6", // js version
-        "lib": ["ES6", "DOM"]
+        "lib": ["ES6", "DOM"],
+        "strict": true,
     }
 }
